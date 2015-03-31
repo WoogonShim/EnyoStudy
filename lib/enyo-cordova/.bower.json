@@ -1,0 +1,13 @@
+{
+  "name": "enyo-cordova",
+  "homepage": "https://github.com/enyojs/enyo-cordova",
+  "_release": "2.5.1.1",
+  "_resolution": {
+    "type": "tag",
+    "tag": "2.5.1.1",
+    "commit": "4d37c9ed55e1c072b6d9592fc60090f8e211616f"
+  },
+  "_source": "git://github.com/enyojs/enyo-cordova.git",
+  "_target": "2.5.1.1",
+  "_originalSource": "enyojs/enyo-cordova"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "enyo-webos",
+  "homepage": "https://github.com/enyojs/enyo-webos",
+  "_release": "2.5.1.1",
+  "_resolution": {
+    "type": "tag",
+    "tag": "2.5.1.1",
+    "commit": "91551fd8b629eedf9acf247e846754207bc83b2b"
+  },
+  "_source": "git://github.com/enyojs/enyo-webos.git",
+  "_target": "2.5.1.1",
+  "_originalSource": "enyojs/enyo-webos"
+}

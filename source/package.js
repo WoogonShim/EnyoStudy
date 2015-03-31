@@ -1,0 +1,12 @@
+enyo.depends(
+	"$lib/enyo-ilib",
+	"$lib/enyo-webos",
+	"$lib/enyo-cordova",
+	"$lib/layout",
+	"$lib/moonstone",
+	"$lib/spotlight",
+	"style",
+	"data",
+	"views",
+	"app.js"
+)

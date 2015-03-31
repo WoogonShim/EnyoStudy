@@ -1,0 +1,13 @@
+{
+  "name": "moonstone",
+  "homepage": "https://github.com/enyojs/moonstone",
+  "_release": "2.5.1.1",
+  "_resolution": {
+    "type": "tag",
+    "tag": "2.5.1.1",
+    "commit": "ffd406f86db4dafa296fda17d8ebc194e560375b"
+  },
+  "_source": "git://github.com/enyojs/moonstone.git",
+  "_target": "2.5.1.1",
+  "_originalSource": "enyojs/moonstone"
+}

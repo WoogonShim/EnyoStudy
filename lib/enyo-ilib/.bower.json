@@ -1,0 +1,13 @@
+{
+  "name": "enyo-ilib",
+  "homepage": "https://github.com/enyojs/enyo-ilib",
+  "_release": "2.5.1.1",
+  "_resolution": {
+    "type": "tag",
+    "tag": "2.5.1.1",
+    "commit": "cbf1fe2aad1a6cb2c0ed150743e550f9e889ed5d"
+  },
+  "_source": "git://github.com/enyojs/enyo-ilib.git",
+  "_target": "2.5.1.1",
+  "_originalSource": "enyojs/enyo-ilib"
+}

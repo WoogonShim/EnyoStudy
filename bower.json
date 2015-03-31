@@ -1,0 +1,12 @@
+{
+	"name": "enyo-bootplate-project",
+	"version": "1.0.0",
+	"dependencies": {
+		"layout": "enyojs/layout#2.5.1.1",
+		"spotlight": "enyojs/spotlight#2.5.1.1",
+		"moonstone": "enyojs/moonstone#2.5.1.1",
+		"enyo-ilib": "enyojs/enyo-ilib#2.5.1.1",
+		"enyo-webos": "enyojs/enyo-webos#2.5.1.1",
+		"enyo-cordova": "enyojs/enyo-cordova#2.5.1.1"
+	}
+}
