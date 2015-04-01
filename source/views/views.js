@@ -13,6 +13,13 @@ enyo.kind({
 	handlers: {
 		onInputHeaderChange: "search"
 	},
+	components: [
+		{kind: "moon.DataGridList", fit: true, name: "resultList",
+			minWidth: 250, minHeight: 300,
+			components: [
+				{kind: "moon.GridListImageItem", imageSizing: "cover",useSubCaption: false, centered: false}
+		]}
+	],
 	search: function(inSender, inEvent) {
 		alert(inEvent.originator.get("value"));
 	},
